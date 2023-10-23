@@ -1,0 +1,14 @@
+.attributeList {
+  display: grid;
+  justify-content: center;
+  gap: 5px;
+  border: 1px solid #444;
+  border-radius: 10px;
+  padding: 30px;
+  grid-area: attributes;
+}
+
+.attributeList__title {
+  margin: 0;
+  margin-bottom: 20px;
+}

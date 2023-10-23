@@ -1,0 +1,19 @@
+.nickname {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.nickname__input {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font: inherit;
+  font-size: 14px;
+}
+
+.nickname__title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
